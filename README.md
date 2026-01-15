@@ -1,10 +1,10 @@
 # Isometric Reed Field Simulator
 
 ### In a nutshell
- - Run it in the terminal
- - Real-time trigonometric coordinates simulator, with the form of windy field of reed.
- - Pseudo 2.5D(isometric projection)
- - It simulates x and y as time goes(t)
+ - Run it in the terminal // 터미널로 실행
+ - Real-time trigonometric coordinates simulator, with the form of windy field of reed // 바람부는 갈대밭 형태를 한 실시간 삼각함수 좌표 시물레이터
+ - Pseudo 2.5D(isometric projection) // 유사 2.5D (등각투사)
+ - It simulates x and y as time goes(t) // 시간(t)에 따른 x,y값 변동
 
 A procedural animation project that visualizes a wind-swept reed field using trigonometric functions and isometric projection in a terminal environment.
 
